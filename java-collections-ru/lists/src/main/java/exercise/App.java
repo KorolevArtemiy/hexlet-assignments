@@ -22,7 +22,7 @@ public class App {
             }
             symbolsArList.remove(w);
         }
-    return true;
+        return true;
     }
 }
 //END
