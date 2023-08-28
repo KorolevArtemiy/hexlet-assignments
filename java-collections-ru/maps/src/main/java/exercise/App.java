@@ -21,7 +21,7 @@ public class App {
                 }
             }
         }
-            return word;
+        return word;
     }
 
     public static String toString(Map<String, Integer> map) {
